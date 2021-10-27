@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 The variables that contribute to the mpg are vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD.
-Slope of the line isn’t zero as we there is a high R-squared value.
+Slope of the line isn’t zero as there is a high R-squared value.
 Yes. This linear model predicts mpg of MechaCar as I can see all coefficients and values in the console.
 
 ## Summary Statistics on Suspension Coils
@@ -22,15 +22,15 @@ Overall the design specification is good as the variance (62.293) is under 100 p
 
 ![image](https://user-images.githubusercontent.com/8925001/129513718-8f2d58ca-7735-41fa-8f73-9252008c3326.png)
 
-This is sample t-test for lot 1. The p value is greater than 0.05 which causes to reject the null hypothesis that the true mean is equal to 1500.
+This is a sample t-test for lot 1. The p value is greater than 0.05 which causes to reject the null hypothesis that the true mean is equal to 1500.
 
 ![image](https://user-images.githubusercontent.com/8925001/129513735-db54e434-875d-4783-ab01-9b41080c894c.png)
 
-This is sample t-test for lot 2. The p value (0.60) is greater than 0.05 which causes us to reject null hypothesis that the true mean is equal to 1500.
+This is a sample t-test for lot 2. The p value (0.60) is greater than 0.05 which causes us to reject null hypothesis that the true mean is equal to 1500.
 
 ![image](https://user-images.githubusercontent.com/8925001/129513760-3edec4d7-bfd8-4223-b0ef-50a4e26c1ae7.png)
 
-This is sample t-test for lot 3. The p value (0.04) is less than 0.05 which causes us to accept the null hypothesis that the true mean is equal to 1500.
+This is a sample t-test for lot 3. The p value (0.04) is less than 0.05 which causes us to accept the null hypothesis that the true mean is equal to 1500.
 
 ## Study Design: MechaCar vs Competition
 
